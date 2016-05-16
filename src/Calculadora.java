@@ -2,6 +2,7 @@
 
 //Aqui abaixo foi Criada a Classe Calculadora
 
+//Soma e subtração em código
 public class Calculadora {
 	
 	private String proprietario;

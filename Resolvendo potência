@@ -1,0 +1,5 @@
+
+
+//Resolvendo a potencia em java
+
+public int potencia(int valor1, int valor2) {

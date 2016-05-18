@@ -1,4 +1,6 @@
 
+//CRIAÇÃO DA CLASS CALCULADORA
+
 public class Calculadora {
 	
 	private String proprietario;

@@ -19,6 +19,8 @@ public class Calculadora {
 		return valor1 - valor2;
 	}
 	
+	//Multiplicação em código
+	
 	public double multiplicar(double valor1, double valor2) {
 		return valor1 * valor2;
 	}
